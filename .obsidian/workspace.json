@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "4c8f80e846948fd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "97e0e13c59a184ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5eaebc964b44852",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "41595b73c771a7b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B.情绪/B0001.关于....md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "646048fef33ea23f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A.文献/A0000.阅读清单.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d033374b56efa6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fadf2c29a369b17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efd4852576fdceeb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa0ea6719a3f441e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd5af0816164864f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2486d7b08da44eb9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "right": {
+    "id": "0b8131a69ebccf3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "98e125b3b7a9ada4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21a317eb6900563a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A.文献/A0000.阅读清单.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d8fd26aa23d7512",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A.文献/A0000.阅读清单.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5332955946af5e23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A.文献/A0000.阅读清单.md"
+              }
+            }
+          },
+          {
+            "id": "217555d43c1001c6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "templates:插入模板": false,
+      "workspaces:管理工作区布局": false,
+      "random-note:开始漫游笔记": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "646048fef33ea23f",
+  "lastOpenFiles": [
+    "A.文献/A0005.人性的弱点.md",
+    "A.文献/A0004.原子习惯.md",
+    "A.文献/A0007.情绪价值课程--李越.md",
+    "A.文献/A0000.阅读清单.md",
+    "C.认知模型/C0001.关于....md",
+    "B.情绪/B0001.关于....md",
+    "B.情绪/B0007.关于情绪低落 or 心理上的疲惫与倦怠.md",
+    "B.情绪/B0005.关于迷茫.md",
+    "C.认知模型/C0001.成本最小化模型.md",
+    "B.情绪/B0003.关于自责.md"
+  ]
+}

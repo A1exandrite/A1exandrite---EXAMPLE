@@ -1,0 +1,189 @@
+{
+  "workspaces": {
+    "default": {
+      "main": {
+        "id": "4c8f80e846948fd1",
+        "type": "split",
+        "children": [
+          {
+            "id": "ecc64cf55e0ce9f6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b9353e2f37161b3d",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "obsidian-projects",
+                  "state": {},
+                  "pinned": true
+                }
+              },
+              {
+                "id": "62b28172ee2cfba1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Projects - Demo Project/武红志心理学108讲.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "7f65eb54548126a2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Projects - Demo Project/《周易大传经注》.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "0d033374b56efa6b",
+        "type": "split",
+        "children": [
+          {
+            "id": "5fadf2c29a369b17",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "efd4852576fdceeb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "fa0ea6719a3f441e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#双向链接",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "bd5af0816164864f",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "2486d7b08da44eb9",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 353.5
+      },
+      "right": {
+        "id": "0b8131a69ebccf3b",
+        "type": "split",
+        "children": [
+          {
+            "id": "98e125b3b7a9ada4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "21a317eb6900563a",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Projects - Demo Project/武红志心理学108讲.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "9d8fd26aa23d7512",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Projects - Demo Project/武红志心理学108讲.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "5332955946af5e23",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Projects - Demo Project/武红志心理学108讲.md"
+                  }
+                }
+              },
+              {
+                "id": "217555d43c1001c6",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:Create new canvas": false,
+          "templates:插入模板": false,
+          "workspaces:管理工作区布局": false,
+          "random-note:开始漫游笔记": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-projects:Open projects": false,
+          "command-palette:打开命令面板": false
+        }
+      },
+      "active": "62b28172ee2cfba1"
+    }
+  },
+  "active": "default"
+}

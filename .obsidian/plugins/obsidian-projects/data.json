@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "权重": {},
+        "任务分类": {},
+        "完成时间": {},
+        "完成情况": {},
+        "任务封面": {},
+        "任务状态": {},
+        "name": {
+          "richText": false
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects - Demo Project",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 174
+              },
+              "path": {
+                "hide": true
+              },
+              "image": {
+                "width": 121
+              },
+              "任务分类": {
+                "width": 159
+              },
+              "任务状态": {
+                "width": 133
+              },
+              "完成情况": {
+                "width": 127
+              },
+              "权重": {
+                "width": 135
+              }
+            },
+            "sortField": "权重",
+            "sortAsc": true
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "name": "Table",
+          "id": "24bb1934-89ad-4e97-a1ca-6c0ca9bee6ca",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "任务状态",
+            "priorityField": "权重",
+            "columns": {
+              "No status": {
+                "weight": 0
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "name": "Board",
+          "id": "2f3cb6be-8afa-42ca-a387-5254e934c7cc",
+          "type": "board"
+        },
+        {
+          "config": {
+            "interval": "month",
+            "dateField": "due",
+            "checkField": "published"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "name": "Calendar",
+          "id": "4bcab881-3017-420a-bf72-189564bc999b",
+          "type": "calendar"
+        }
+      ],
+      "name": "日常",
+      "id": "00bd30b3-60a5-4282-9ec3-a17b755bf6fb",
+      "path": "Projects - Demo Project"
+    }
+  ],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    }
+  }
+}
